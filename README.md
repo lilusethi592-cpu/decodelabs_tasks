@@ -1,4 +1,4 @@
-# Artificial Intelligence — Industrial Training Kit (Batch 2026)
+# Artificial Intelligence — Industrial Training Kit
 **DecodeLabs**
 
 Four-project internship track: rule-based logic → supervised classification →
